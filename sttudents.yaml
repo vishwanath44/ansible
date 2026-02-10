@@ -1,0 +1,27 @@
+- name: "vishwanath chinta"
+  dob: "1997-01-19"
+  mobilenumber: 999999999
+  addresses:
+  - flat number: 111
+    street: "tech colony"
+    city: "Bangaluru"
+    type: current
+    
+  - flatnumber: 104
+    street: "main road"
+    city: hyderabad
+    type: perm
+
+- name: "vishwanath chinta"
+  dob: "1997-01-19"
+  mobilenumber: 999999999
+  addresses:
+  - flat number: 111
+    street: "tech colony"
+    city: "Bangaluru"
+    type: current
+    
+  - flatnumber: 104
+    street: "main road"
+    city: hyderabad
+    type: perm    
