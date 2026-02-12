@@ -1,6 +1,6 @@
 - name: demo on conditions
   hosts: local
-  connections: local
+  connection: local
   vars:
     IS_LIVE: true
   tasks:
