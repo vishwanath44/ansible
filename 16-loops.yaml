@@ -1,0 +1,11 @@
+- name: demo on loops
+  hots: local
+  connection: local
+  tasks:
+  - name: print names
+    asnsible.builtin.debug:
+      msg: "Hello {{ item }}" # iteam is reserved keyword
+    loop: 
+    - Vishwa
+    - Chinta
+    - Manofmasses
