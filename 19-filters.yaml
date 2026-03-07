@@ -6,7 +6,7 @@
     tags:
       name: ansible
       project: roboshop
-    component: catalogue  
+      component: catalogue  
   tasks:
   - name: greeting
     ansible.builtin.debug:
