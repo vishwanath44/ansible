@@ -1,5 +1,5 @@
 - name: demo on loops
-  hots: local
+  hosts: local
   connection: local
   tasks:
   - name: print names
